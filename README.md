@@ -1,2 +1,2 @@
 # React-Calendar
-Created with CodeSandbox
+An interactive calendar created with React.js
