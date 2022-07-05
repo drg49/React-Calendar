@@ -8,3 +8,26 @@
     width: 90px;
   }
 }
+
+#day-card {
+  border-right: 1px solid gray;
+  border-bottom: 1px solid gray;
+  flex: 1 0 13%;
+  height: 100px;
+  background-color: lightgray;
+  max-width: 171px;
+  min-width: 100px;
+  transition: 120ms;
+}
+
+#day-card:hover {
+  opacity: 0.75;
+}
+
+#calendar {
+  border-top: 1px solid gray;
+  border-left: 1px solid gray;
+  display: flex;
+  flex-wrap: wrap;
+  min-width: 959px;
+}
